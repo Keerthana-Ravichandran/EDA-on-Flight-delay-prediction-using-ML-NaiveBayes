@@ -10,14 +10,14 @@ Origin
 
 DCA - Reagan National,
 IAD - Dulles,
-BWI - Baltimore–Washington Int’l
+BWI - Baltimore–Washington Int’l.
 
 
 Destination 
 
 JFK - Kennedy,
 LGA - LaGuardia,
-EWR - Newark
+EWR - Newark.
 
 Carrier 
 
@@ -28,4 +28,4 @@ MQ - American Eagle,
 OH - Comair,
 RU - Continental Express,
 UA - United,
-US - USAirways
+US - USAirways.
