@@ -4,17 +4,20 @@ Flight delay data, identifying patterns and factors contributing to delays.
 
 
 Variable Dictionary
-Origin -
+**Origin **
 
 DCA - Reagan National
 IAD - Dulles
 BWI - Baltimore–Washington Int’l
-Destination -
+
+
+**Destination **
 
 JFK - Kennedy
 LGA - LaGuardia
 EWR - Newark
-Carrier -
+
+**Carrier **
 
 CO - Continental
 DH - Atlantic Coast
